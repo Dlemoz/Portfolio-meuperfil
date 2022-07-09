@@ -2,7 +2,7 @@
 Portfólio criado com HTML e CSS responsivo 
 
 # Créditos dos icons utilizados
-[https://www.flaticon.com/free-icon/python_1822899?term=python&page=1&position=9&page=1&position=9&related_id=1822899&origin=search]
+{Freepik}[https://www.flaticon.com/free-icon/python_1822899?term=python&page=1&position=9&page=1&position=9&related_id=1822899&origin=search]
 
 
 ## Exemplo
